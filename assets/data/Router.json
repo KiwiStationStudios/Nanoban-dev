@@ -1,0 +1,21 @@
+{
+    "meta" : {
+        "version" : "0.0.1"
+    },
+    "router" : {
+        "Tutorial" : {
+            "description" : "Give some tutorial to the player",
+            "worlds" : {
+                "tutorial1" : {
+                    "filename" : "tutorial1.lua",
+                    "useScript" : "",
+                    "callbacks" : {
+                        "onStart" : "",
+                        "onUpdate" : "",
+                        "onFinish" : ""
+                    }
+                }
+            }
+        }
+    }
+}
